@@ -55,10 +55,11 @@ RISK_MM---The amount of next day rain in mm. Used to create response variable Ra
 
 RainTomorrow---The target variable. Did it rain tomorrow?
 References
-This total dataset is taken from following reference.
+This total dataset is taken from following kaggle reference.
+
 https://www.kaggle.com/jsphyg/weather-dataset-rattle-package
 
-Source & Acknowledgements
+### Source & Acknowledgements
 Observations were drawn from numerous weather stations. The daily observations are available from http://www.bom.gov.au/climate/data. Copyright Commonwealth of Australia 2010, Bureau of Meteorology.
 
 Definitions adapted from http://www.bom.gov.au/climate/dwo/IDCJDW0000.shtml
