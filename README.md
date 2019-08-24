@@ -1,10 +1,10 @@
 # Rainfall-prediction-in-Australia
 
-Rain in Australia
-Description
+## Rain in Australia
+### Description
 This dataset contains daily weather observations from numerous Australian weather stations.
 
-Features description
+### Features description
 Date---The date of observation
 
 Location---The common name of the location of the weather station
@@ -67,7 +67,7 @@ This dataset is also available via the R package rattle.data and at https://ratt
 
 And to see some great examples of how to use this data: https://togaware.com/onepager/
 
-Objective
+### Objective
 Predict whether or not it will rain tomorrow by training a binary classification model on target RainTomorrow.
 
 The target variable RainTomorrow means: Did it rain the next day? Yes or No.
